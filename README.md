@@ -1,4 +1,4 @@
-# Medical-Images-De-Identification
+# De-Identification of medical images using AWS
 In this post we will learn how to use AWS Services to de-identify medical inages before making them eligible for medical imaging. 
 
 Medical Imaging is the most intanglible element in medical practice in this day and age. Thanks to modern medical imaging modalities, practitioners and scientists can learn more about the human body than ever before. However, most of the medical imaging modalities have .dicom images and also contain information which can be traced back to the patient thereby making these images useless for further processing and research. 
