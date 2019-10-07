@@ -12,3 +12,5 @@ The pipeline would look something like this -
 4) Run Amazon Rekognition on top of it to identify the text. 
 5) Pass on the text through Amazon Comprehend Medical to identify if it contains any Personal Health Information (PHI). 
 6) Redact the PHI using OpenCV and then make it available to the broader medical community for research purposes. 
+
+![jpg](/Images/GIF.jpg)
